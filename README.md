@@ -97,7 +97,6 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 - **E2e-vlp: End-to-end vision-language pre-training enhanced by visual learning.** Haiyang Xu. | [[pdf]](https://arxiv.org/pdf/2106.01804.pdf)
 - **Language  models  are  unsupervised  multitask  learners.** Alec  Radford. |pre-train,  prompt,  and  predict|[[pdf]](http://www.persagen.com/files/misc/radford2019language.pdf)
 - **Language  models  as knowledge  bases?** Fabio Petroni. | [[pdf]](https://arxiv.org/pdf/1909.01066.pdf)
-- move lu and xu here they are prompt
 - **Oscar:  Object-semantics aligned pre-training for vision-language tasks.** Xiujun Li. | [[pdf]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750120.pdf)
 - **Uniter: Learning universal image-text representations.** Yen-Chun Chen.| Masked  Region  Classification, Masked Region Feature Regression, and Masked Region Classification | [[pdf]](https://www.researchgate.net/profile/Linjie-Li-6/publication/336084110_UNITER_Learning_UNiversal_Image-TExt_Representations/links/5e14ea4da6fdcc2837619f52/UNITER-Learning-UNiversal-Image-TExt-Representations.pdf)
 - **Align  before  fuse: Vision and  language  representation  learning  with  momentum distillation.** Junnan Li. | [[pdf]](https://proceedings.neurips.cc/paper/2021/file/505259756244493872b7709a8a01b536-Paper.pdf)
