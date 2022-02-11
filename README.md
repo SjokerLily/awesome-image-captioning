@@ -45,6 +45,11 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 
 - **Sequence to sequence learning with neural networks.** Ilya  Sutskever. | [NIPS'14]| [[pdf]](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
 - **Cider: Consensus-based  image  description  evaluation.** Ramakrishna Vedantam. |evaluation metrics, CIDEr| [[pdf]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Vedantam_CIDEr_Consensus-Based_Image_2015_CVPR_paper.pdf)
+- **Reinforcing an Image Caption Generator using Off-line Human Feedback.** Paul Hongsuck Seo. | [[pdf]](https://arxiv.org/pdf/1911.09753.pdf)
+- **Interactive Dual Generative Adversarial Networks for Image Captioning.** Junhao Liu. | [[pdf]](https://www.researchgate.net/profile/Ying-Shen-29/publication/342544294_Interactive_Dual_Generative_Adversarial_Networks_for_Image_Captioning/links/608bc023299bf1ad8d69130f/Interactive-Dual-Generative-Adversarial-Networks-for-Image-Captioning.pdf)
+- **Dependent Multi-Task Learning with Causal Intervention for Image Captioning.** Wenqing Chen.|[[pdf]](https://arxiv.org/pdf/2105.08573.pdf)
+- **Perturb, Predict & Paraphrase: Semi-Supervised Learning using Noisy Student for Image Captioning.** Arjit Jain. |[[pdf]](https://www.ijcai.org/proceedings/2021/0105.pdf)
+- **Recurrent Relational Memory Network for Unsupervised Image Captioning.** Dan Guo. | [[pdf]](https://arxiv.org/pdf/2006.13611.pdf)
 
 ### Visual Feature -- CNN
 
@@ -70,6 +75,9 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 - **Attention on attention for image captioning.** Lun Huang. | AoA| [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Attention_on_Attention_for_Image_Captioning_ICCV_2019_paper.pdf)
 - **X-linear attention networks for image captioning.** Yingwei Pan. |X-LAN|[[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_X-Linear_Attention_Networks_for_Image_Captioning_CVPR_2020_paper.pdf)
 - **Self-critical sequence training for image captioning.**  Steven  J  Rennie. |reinforcement learning-based strategy| [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)
+- **Memory-Augmented Image Captioning.** Zhengcong Fei.| [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-1630.FeiZ.pdf)
+- **MemCap: Memorizing Style Knowledge for Image Captioning.** Wentian Zhao. | [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6998)
+- **Human Consensus-Oriented Image Captioning.** Ziwei Wang. | [[pdf]](https://www.ijcai.org/proceedings/2020/0092.pdf)
 
 ### Visual and Language Structure -- Inductive Bias
 
@@ -81,13 +89,23 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 - **Auto-parsing network for image captioning and visual question answering.**  Xu Yang. |text pattern |[[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Auto-Parsing_Network_for_Image_Captioning_and_Visual_Question_Answering_ICCV_2021_paper.pdf)
 - **Knowing  when  to  look:  Adaptive attention via a visual sentinel for image captioning.** Jiasen  Lu. |design two modules for vision and non-vision words|[[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lu_Knowing_When_to_CVPR_2017_paper.pdf)
 - **Learning to collocate neural modules for image captioning.** Xu Yang. |four modules : object, attribute, relation, and function|[[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Learning_to_Collocate_Neural_Modules_for_Image_Captioning_ICCV_2019_paper.pdf)
-- 
+- **MAGIC: Multimodal relAtional Graph adversarIal inferenCe for Diverse and Unpaired Text-Based Image Captioning.** Wenqiao Zhang. | [[pdf]](https://arxiv.org/pdf/2112.06558.pdf)
+- **Image Captioning with Context-Aware Auxiliary Guidance.** Zeliang Song. | [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-3635.SongZ.pdf)
+- **Consensus Graph Representation Learning for Better Grounded Image Captioning.** Wenqiao Zhang. | [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-3680.ZhangW.pdf?ref=https://githubhelp.com)
+- **Show, Recall, and Tell: Image Captioning with Recall Mechanism.** Li Wang.|[[pdf]](https://arxiv.org/pdf/2001.05876.pdf)
+- **Feature Deformation Meta-Networks in Image Captioning of Novel Objects.** Tingjia Cao. | [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6620)
 
 ## Transformer & Homogenous Architecture
 
 -  **Attention is all you need.** Ashish Vaswani. |[NIPS'17]|[[pdf]](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 -  **Swin transformer:  Hierarchical vision transformer using shifted windows.** Ze Liu. | visual encoder is a pre-trained vision Transformer| [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)
 -  **Tree transformer: Integrating tree structures into self-attention.** Yau-Shian Wang. |[[pdf]](https://arxiv.org/pdf/1909.06639.pdf)
+-  **Partially Non-Autoregressive Image Captioning.** Zhengcong Fei. |generates in word groups; Transformer-based|[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16219)
+-  **Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network.** Jiayi Ji.|[[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-1324.JiJ.pdf)
+-  **Dual-Level Collaborative Transformer for Image Captioning.** Yunpeng Luo. | [[pdf]](https://arxiv.org/pdf/2101.06462.pdf)
+-  **Learning Long- and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network for Personalized Image Caption.** Wei Zhang. | [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6503)
+-  **TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning.** Zhihao Fan. | [[pdf]](https://arxiv.org/abs/2106.10936)
+-  **Non-Autoregressive Image Captioning with Counterfactuals-Critical Multi-Agent Learning.** Longteng Guo. | [[pdf]](https://arxiv.org/pdf/2005.04690.pdf)
 
 ## Large Scale Pretraining
 
@@ -106,5 +124,7 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 - **Vqa: Visual question answering.**  Stanislaw Antol.|VQA|[[pdf]](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
 - **Open-vocabulary object detection using captions.**  Alireza Zareian.| [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf)
 - **Zero-shot text-to-image generation**. Aditya Ramesh. | [[pdf]](http://proceedings.mlr.press/v139/ramesh21a/ramesh21a.pdf)
+- **VIVO: Visual Vocabulary Pre-Training for Novel Object Captioning.** Xiaowei Hu. | [[pdf]](https://arxiv.org/pdf/2009.13682.pdf)
+- **Unified Vision-Language Pre-Training for Image Captioning and VQA.** Luowei Zhou. | [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/7005)
 
 
