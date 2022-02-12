@@ -50,6 +50,10 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 - **Dependent Multi-Task Learning with Causal Intervention for Image Captioning.** Wenqing Chen.|[[pdf]](https://arxiv.org/pdf/2105.08573.pdf)
 - **Perturb, Predict & Paraphrase: Semi-Supervised Learning using Noisy Student for Image Captioning.** Arjit Jain. |[[pdf]](https://www.ijcai.org/proceedings/2021/0105.pdf)
 - **Recurrent Relational Memory Network for Unsupervised Image Captioning.** Dan Guo. | [[pdf]](https://arxiv.org/pdf/2006.13611.pdf)
+- **Memory-Augmented Image Captioning.** Zhengcong Fei.| [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-1630.FeiZ.pdf)
+- **MemCap: Memorizing Style Knowledge for Image Captioning.** Wentian Zhao. | [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6998)
+- **Human Consensus-Oriented Image Captioning.** Ziwei Wang. | [[pdf]](https://www.ijcai.org/proceedings/2020/0092.pdf)
+- **Self-critical sequence training for image captioning.**  Steven  J  Rennie. |reinforcement learning-based strategy| [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)
 
 ### Visual Feature -- CNN
 
@@ -74,10 +78,8 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 - **Meshed-memory transformer for image captioning.**  Marcella   Cornia. |use different sources as Q,K,V；augmented memory| [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cornia_Meshed-Memory_Transformer_for_Image_Captioning_CVPR_2020_paper.pdf)
 - **Attention on attention for image captioning.** Lun Huang. | AoA| [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Attention_on_Attention_for_Image_Captioning_ICCV_2019_paper.pdf)
 - **X-linear attention networks for image captioning.** Yingwei Pan. |X-LAN|[[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_X-Linear_Attention_Networks_for_Image_Captioning_CVPR_2020_paper.pdf)
-- **Self-critical sequence training for image captioning.**  Steven  J  Rennie. |reinforcement learning-based strategy| [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)
-- **Memory-Augmented Image Captioning.** Zhengcong Fei.| [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-1630.FeiZ.pdf)
-- **MemCap: Memorizing Style Knowledge for Image Captioning.** Wentian Zhao. | [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6998)
-- **Human Consensus-Oriented Image Captioning.** Ziwei Wang. | [[pdf]](https://www.ijcai.org/proceedings/2020/0092.pdf)
+- **Show, Recall, and Tell: Image Captioning with Recall Mechanism.** Li Wang.|[[pdf]](https://arxiv.org/pdf/2001.05876.pdf)
+
 
 ### Visual and Language Structure -- Inductive Bias
 
@@ -92,7 +94,6 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 - **MAGIC: Multimodal relAtional Graph adversarIal inferenCe for Diverse and Unpaired Text-Based Image Captioning.** Wenqiao Zhang. | [[pdf]](https://arxiv.org/pdf/2112.06558.pdf)
 - **Image Captioning with Context-Aware Auxiliary Guidance.** Zeliang Song. | [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-3635.SongZ.pdf)
 - **Consensus Graph Representation Learning for Better Grounded Image Captioning.** Wenqiao Zhang. | [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-3680.ZhangW.pdf?ref=https://githubhelp.com)
-- **Show, Recall, and Tell: Image Captioning with Recall Mechanism.** Li Wang.|[[pdf]](https://arxiv.org/pdf/2001.05876.pdf)
 - **Feature Deformation Meta-Networks in Image Captioning of Novel Objects.** Tingjia Cao. | [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6620)
 
 ## Transformer & Homogenous Architecture
