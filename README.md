@@ -34,6 +34,7 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 - **Transformers in vision:  A survey.** Salman Khan. | [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3505244)
 
 - **Pre-train,  prompt,  and  predict:   A  systematic  survey  of prompting methods in natural language processing.** Pengfei Liu.|[[pdf]](https://arxiv.org/pdf/2107.13586.pdf)
+- **On the Opportunities and Risks of Foundation Models** Rishi Bommasani. | [[pdf]](https://arxiv.org/pdf/2108.07258.pdf)
 
 
 
@@ -119,13 +120,14 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 - **Oscar:  Object-semantics aligned pre-training for vision-language tasks.** Xiujun Li. | [[pdf]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750120.pdf)
 - **Uniter: Learning universal image-text representations.** Yen-Chun Chen.| Masked  Region  Classification, Masked Region Feature Regression, and Masked Region Classification | [[pdf]](https://www.researchgate.net/profile/Linjie-Li-6/publication/336084110_UNITER_Learning_UNiversal_Image-TExt_Representations/links/5e14ea4da6fdcc2837619f52/UNITER-Learning-UNiversal-Image-TExt-Representations.pdf)
 - **Align  before  fuse: Vision and  language  representation  learning  with  momentum distillation.** Junnan Li. | [[pdf]](https://proceedings.neurips.cc/paper/2021/file/505259756244493872b7709a8a01b536-Paper.pdf)
-- **Unifying vision-and-language tasks via text generation.**  Jaemin Cho. |unifies various vision-language tasks.| [[pdf]](http://proceedings.mlr.press/v139/cho21a/cho21a.pdf)
-- **Multimodal  few-shot  learning  with  frozen language models.** Maria Tsimpoukelli. | [[pdf]](https://proceedings.neurips.cc/paper/2021/file/01b7575c38dac42f3cfb7d500438b875-Paper.pdf)
--  **Simvlm: Simple visual language model pretraining with weak supervision.** Zirui Wang.| [[pdf]](https://arxiv.org/pdf/2108.10904.pdf)
-- **Vqa: Visual question answering.**  Stanislaw Antol.|VQA|[[pdf]](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
 - **Open-vocabulary object detection using captions.**  Alireza Zareian.| [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.pdf)
 - **Zero-shot text-to-image generation**. Aditya Ramesh. | [[pdf]](http://proceedings.mlr.press/v139/ramesh21a/ramesh21a.pdf)
 - **VIVO: Visual Vocabulary Pre-Training for Novel Object Captioning.** Xiaowei Hu. | [[pdf]](https://arxiv.org/pdf/2009.13682.pdf)
 - **Unified Vision-Language Pre-Training for Image Captioning and VQA.** Luowei Zhou. | [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/7005)
+### Prompt
+- **Unifying vision-and-language tasks via text generation.**  Jaemin Cho. |unifies various vision-language tasks.| [[pdf]](http://proceedings.mlr.press/v139/cho21a/cho21a.pdf)
+- **Multimodal  few-shot  learning  with  frozen language models.** Maria Tsimpoukelli. | [[pdf]](https://proceedings.neurips.cc/paper/2021/file/01b7575c38dac42f3cfb7d500438b875-Paper.pdf)
+-  **Simvlm: Simple visual language model pretraining with weak supervision.** Zirui Wang.| [[pdf]](https://arxiv.org/pdf/2108.10904.pdf)
+- **Vqa: Visual question answering.**  Stanislaw Antol.|VQA|[[pdf]](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
 
 
