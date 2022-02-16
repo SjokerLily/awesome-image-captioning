@@ -112,7 +112,6 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 ## Large Scale Pretraining
 
 - **Bert:  Pre-training  of deep bidirectional transformers for language understanding.** Jacob  Devlin. |[[pdf]](https://arxiv.org/pdf/1810.04805.pdf)
-- **Learning  transferable  visual  models  from  natural  language  supervision.** Alec Radford. |CLIP| [ICML'21]|[[pdf]](https://arxiv.org/pdf/2103.00020.pdf)
 - **Vilbert: Pretraining  task-agnostic  visiolinguistic representations for vision-and-language tasks.** Jiasen Lu. |[NIPS'19]|[[pdf]](https://proceedings.neurips.cc/paper/2019/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf)
 - **E2e-vlp: End-to-end vision-language pre-training enhanced by visual learning.** Haiyang Xu. | [[pdf]](https://arxiv.org/pdf/2106.01804.pdf)
 - **Language  models  are  unsupervised  multitask  learners.** Alec  Radford. |pre-train,  prompt,  and  predict|[[pdf]](http://www.persagen.com/files/misc/radford2019language.pdf)
@@ -129,5 +128,5 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 - **Multimodal  few-shot  learning  with  frozen language models.** Maria Tsimpoukelli. | [[pdf]](https://proceedings.neurips.cc/paper/2021/file/01b7575c38dac42f3cfb7d500438b875-Paper.pdf)
 -  **Simvlm: Simple visual language model pretraining with weak supervision.** Zirui Wang.| [[pdf]](https://arxiv.org/pdf/2108.10904.pdf)
 - **Vqa: Visual question answering.**  Stanislaw Antol.|VQA|[[pdf]](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
-
+- **Learning  transferable  visual  models  from  natural  language  supervision.** Alec Radford. |CLIP| [ICML'21]|[[pdf]](https://arxiv.org/pdf/2103.00020.pdf)
 
