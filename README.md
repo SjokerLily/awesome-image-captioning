@@ -34,7 +34,8 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 - **Transformers in vision:  A survey.** Salman Khan. | [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3505244)
 
 - **Pre-train,  prompt,  and  predict:   A  systematic  survey  of prompting methods in natural language processing.** Pengfei Liu.|[[pdf]](https://arxiv.org/pdf/2107.13586.pdf)
-- **On the Opportunities and Risks of Foundation Models** Rishi Bommasani. | [[pdf]](https://arxiv.org/pdf/2108.07258.pdf)
+- **On the Opportunities and Risks of Foundation Models.** Rishi Bommasani. | [[pdf]](https://arxiv.org/pdf/2108.07258.pdf)
+- **A Survey on Vision Transformer.** Kai Han. | [[pdf]](https://arxiv.org/pdf/2012.12556.pdf)
 
 
 
