@@ -124,6 +124,12 @@ Some of these multi-modal large-scale pre-training models can also be used for I
 - **Zero-shot text-to-image generation**. Aditya Ramesh. | [[pdf]](http://proceedings.mlr.press/v139/ramesh21a/ramesh21a.pdf)
 - **VIVO: Visual Vocabulary Pre-Training for Novel Object Captioning.** Xiaowei Hu. | [[pdf]](https://arxiv.org/pdf/2009.13682.pdf)
 - **Unified Vision-Language Pre-Training for Image Captioning and VQA.** Luowei Zhou. | [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/7005)
+- **HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training.** Linjie Li. | [[pdf]](https://aclanthology.org/2020.emnlp-main.161.pdf)
+- **Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval.** Max Bain.|[[pdf]](https://arxiv.org/pdf/2104.00650v1.pdf)
+- **VIOLET:End-to-End Video-Language Transformers with Masked Visual-toke Modeling.** Tsu-jiu Fu. | [[pdf]](https://arxiv.org/pdf/2111.12681.pdf)
+- **SWINBERT: End-to-End Transformers with Sparse Attention for Video Captioning.** Kevin Lin.| [[pdf]](https://arxiv.org/pdf/2111.13196.pdf)
+- **VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text.** Hassan Akbari.| [[pdf]](https://arxiv.org/pdf/2104.11178.pdf)
+- **BEVT: BERT Pretraining of Video Transformers.** Rui Wang.|[[pdf]](https://arxiv.org/pdf/2112.01529.pdf)
 ### Prompt
 - **Unifying vision-and-language tasks via text generation.**  Jaemin Cho. |unifies various vision-language tasks.| [[pdf]](http://proceedings.mlr.press/v139/cho21a/cho21a.pdf)
 - **Multimodal  few-shot  learning  with  frozen language models.** Maria Tsimpoukelli. | [[pdf]](https://proceedings.neurips.cc/paper/2021/file/01b7575c38dac42f3cfb7d500438b875-Paper.pdf)
