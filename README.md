@@ -1,5 +1,5 @@
 # Awesome-Image Captioning
-A paper list of image captioning as supplementary reference to this short survey. Based on this survey, we combed the papers and its codes in the field of IC in recent years.
+A paper list of image captioning as supplementary reference to [this short survey](https://arxiv.org/abs/2204.07374). Based on this survey, we combed the papers and its codes in the field of IC in recent years.
 
 This paper list is organized as follows:
 
@@ -24,6 +24,11 @@ Thanks to the  architectural advantages  of Transformer, a promising pure Transf
 
 Motivated by NLP , researchers  in  the  vision-language  domain  also  proposed  to train  the  large-scale  Transformer  architectures.
 Some of these multi-modal large-scale pre-training models can also be used for IC and have achieved much better performances than small-scale ones.
+
+
+**If need, I'm glad to supplement other paper information such as journal reference and continue to update latest awesome works. However, I'm busy with other issue currently and could not update this paper list in recent time.
+
+Most of the journal reference can be found at ArXiv(since the pdf link I've already provided) and meanwhile I recommend [this webside](https://paperswithcode.com/sota) to search source code.
 
 ## Survey
 
